@@ -4,6 +4,7 @@ Just a Simple Code For Ftp Login And Banner Grabbing
 This Code is Just For Educational Purpose ..
 USING Python ftplib
 # python ftpBrute.py --username <username.txt> --password <pass.txt> --host <host>
+    python ftpBrute.py --username <username.txt> --password <pass.txt> --host <host>
     1 . --username - give username as file
     2 . --password - give password as a file
     3 . --host  -  give the Target Host
