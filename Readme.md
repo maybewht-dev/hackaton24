@@ -12,7 +12,7 @@ USING Python ftplib
 # Working
 ![Screenshot 2024-07-09 230400](https://github.com/hack-with-ethics/RedTeamProjects/assets/111492120/a3bd4828-06fe-45b9-88bd-38263daa6187)
 
-# 2.Hash Cracker✌️
+# 2.Subdomain Enumeration ✌️
 
 
 # 3.Asymetric Key Ransomware 😎
