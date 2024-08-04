@@ -25,4 +25,24 @@ USING Python ftplib
 ![Screenshot 2024-07-15 120155](https://github.com/user-attachments/assets/a8acefb6-1afa-413e-855f-02b43a8c2671)
 
 # 3.HashCracker 😎
+# configuration
+     _               _                           _
+    | |__   __ _ ___| |__     ___ _ __ __ _  ___| | _____ _ __
+    | '_ \ / _` / __| '_ \   / __| '__/ _` |/ __| |/ / _ \ '__|
+    | | | | (_| \__ \ | | | | (__| | | (_| | (__|   <  __/ |
+    |_| |_|\__,_|___/_| |_|  \___|_|  \__,_|\___|_|\_\___|_|
+    
+    
+    
+    Config Error [!]
+    usage : hashCracker.py --wordlist <wordlist file> --hash <hash to crack> --type <md5>
+    
+     --wordlist - wordlist file to be specified
+    
+     --hash    -   hash to be cracked
+    
+     --type  - ["sha512","sha256","md5","sha224","sha384","sha1","sha3_224","sha3_256","sha3_512","sha3_384"] any type in list
+# working
 
+![Screenshot_2024-08-04_03_07_33](https://github.com/user-attachments/assets/d2036332-4832-46b5-83e4-e1864a4ca9b8)
+![Screenshot_2024-08-04_03_09_21](https://github.com/user-attachments/assets/86ceeeae-f515-46b8-b1ea-79c20673d857)
