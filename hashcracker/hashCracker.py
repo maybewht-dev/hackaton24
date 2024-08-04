@@ -1,3 +1,11 @@
+#!/python3
+# ************************************************
+# Author : $anjai sa | Mr Whitehat
+# Created : 03-08-2024
+# Last-updated : 04 - 08 - 2024
+# ***********************************************
+
+# Import Statement
 import os
 import hashlib
 import sys
