@@ -24,5 +24,5 @@ USING Python ftplib
 # Working
 ![Screenshot 2024-07-15 120155](https://github.com/user-attachments/assets/a8acefb6-1afa-413e-855f-02b43a8c2671)
 
-# 3.Asymetric Key Ransomware 😎
+# 3.HashCracker 😎
 
